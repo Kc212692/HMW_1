@@ -1,5 +1,5 @@
 def question4_1():
-    answer = ['nominal', 'nominal']  #colors can do have order (if we consider their frequency)
+    answer = ['nominal', 'nominal'] 
     return answer
 
 def question4_2():
